@@ -1,6 +1,6 @@
 # copywrong
 
-A list of software that was once free and is now proprietary --- i.e. [free software](http://www.gnu.org/philosophy/free-sw.en.html) that wasn't [copyleft](https://en.wikipedia.org/wiki/Copyleft), and some entity later (and legally) made binary-only releases under a non-free license.
+A list of software that was once free and is now proprietary --- i.e. [free software](http://www.gnu.org/philosophy/free-sw.en.html) that wasn't [copyleft](https://en.wikipedia.org/wiki/Copyleft), and some entity later (and legally) made binary-only releases under a non-free license. The counter examples of [formerly proprietary software](https://en.wikipedia.org/wiki/List_of_formerly_proprietary_software).
 
 Please add to this list by sending a Pull Request (if you don't know what that means, just click on the `README.md` then `edit`)
 
