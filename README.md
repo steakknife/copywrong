@@ -5,4 +5,5 @@ A list of software that was once free and is now proprietary --- i.e. [free soft
 Please add to this list by sending a Pull Request (if you don't know what that means, just click on the `README.md` then `edit`)
 
 * parts of [Slick](https://github.com/slick/slick) (Two-clause BSD), now distributed as [Slick Extensions](http://slick.typesafe.com/doc/3.0.0/extensions.html) under a proprietary license.
-* LLVM ([LLVM license intentionally encourages proprietary forks](http://llvm.org/docs/DeveloperPolicy.html#copyright-license-patents)), distributed by Apple
+* LLVM ([LLVM license intentionally encourages proprietary forks](http://llvm.org/docs/DeveloperPolicy.html#copyright-license-patents)), distributed by Apple.
+* FoundationDB (??? license), revoked from github, bought and used internally by Apple.
