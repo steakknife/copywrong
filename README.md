@@ -9,3 +9,4 @@ Please add to this list by sending a Pull Request (if you don't know what that m
 * FoundationDB (??? license), revoked from github, bought and used internally by Apple.
 * [LaunchD](https://opensource.apple.com/source/launchd/) (Apache), proprietary extension distributed by Apple.
 * [Nessus](https://en.wikipedia.org/wiki/Nessus_%28software%29), formerly Free Software, changed to a proprietary license by its authors.  Forks of the last Free Software version exist.
+* [Growl](http://www.apple.slashdot.org/story/11/10/20/1757226/os-x-notifier-app-growl-goes-closed-source) was formerly open source, but went closed at 1.3 and paid only.
