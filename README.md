@@ -9,3 +9,4 @@ Please add to this list by sending a Pull Request (if you don't know what that m
 * FoundationDB (??? license), revoked from github, bought and used internally by Apple.
 * [LaunchD](https://opensource.apple.com/source/launchd/) (Apache), proprietary extension distributed by Apple.
 * [Nessus](https://en.wikipedia.org/wiki/Nessus_%28software%29), formerly Free Software, changed to a proprietary license by its authors.  Forks of the last Free Software version exist.
+* [OpenSolaris](http://sdtimes.com/oracle-closes-opensolaris/), formerly open-source, was closed by Oracle.
